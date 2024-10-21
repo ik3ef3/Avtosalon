@@ -1,0 +1,15 @@
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\bin\Debug\Avtosalon.exe.config
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\bin\Debug\Avtosalon.exe
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\bin\Debug\Avtosalon.pdb
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.csproj.AssemblyReference.cache
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.Form1.resources
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.Properties.Resources.resources
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.csproj.GenerateResource.cache
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.csproj.CoreCompileInputs.cache
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.exe
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.pdb
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.CarsForm.resources
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.MainForm.resources
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.RegForm.resources
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.UsersForm.resources
+F:\Учёба\4курс\УП 02\работы\Avtosalon\Avtosalon\obj\Debug\Avtosalon.ZayForm.resources
